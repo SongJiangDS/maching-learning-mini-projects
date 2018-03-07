@@ -1,1 +1,0 @@
-# maching learning mini projects
